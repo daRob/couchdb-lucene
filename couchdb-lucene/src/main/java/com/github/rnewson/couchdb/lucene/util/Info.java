@@ -7,4 +7,9 @@ public class Info {
 	{
 		
 	}
+	
+	public void getInfo()
+	{
+		
+	}
 }
