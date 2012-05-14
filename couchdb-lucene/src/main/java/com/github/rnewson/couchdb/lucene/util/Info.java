@@ -8,16 +8,10 @@ public class Info {
 		
 	}
 	
-	public void getInfo()
+	public void Info2 ()
 	{
 		
 	}
-	public void getInfo2()
-	{
-		
-	}
-	public void getInfo3()
-	{
-		
-	}
+	
+
 }
